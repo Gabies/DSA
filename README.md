@@ -1,2 +1,2 @@
 # DSA
-practice questions on Data Structures and Algorithm
+Data Structures and Algorithm
